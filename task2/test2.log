@@ -1,0 +1,14 @@
+Operand 'a' : 6 | Operand 'b' : 3 Specify the operation to perform (0 : add | 1 : subtract | 2 : Multiply | 3: divide | 4 : exit):0
+Adding 'a' and 'b'
+x = 9
+Operand 'a' : 6 | Operand 'b' : 3 Specify the operation to perform (0 : add | 1 : subtract | 2 : Multiply | 3: divide | 4 : exit):1
+Subtracting 'b' from 'a'
+x = 3
+Operand 'a' : 6 | Operand 'b' : 3 Specify the operation to perform (0 : add | 1 : subtract | 2 : Multiply | 3: divide | 4 : exit):2
+Multiplying 'a' and 'b'
+x = 18
+Operand 'a' : 6 | Operand 'b' : 3 Specify the operation to perform (0 : add | 1 : subtract | 2 : Multiply | 3: divide | 4 : exit):3
+Dividing 'a' by 'b'
+x = 2
+Operand 'a' : 6 | Operand 'b' : 3 Specify the operation to perform (0 : add | 1 : subtract | 2 : Multiply | 3: divide | 4 : exit):4
+Quit Program.
